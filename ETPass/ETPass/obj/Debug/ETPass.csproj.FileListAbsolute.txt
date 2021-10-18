@@ -1,0 +1,11 @@
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\bin\Debug\ETPass.exe.config
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\bin\Debug\ETPass.exe
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\bin\Debug\ETPass.pdb
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.csproj.AssemblyReference.cache
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.Form1.resources
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.Properties.Resources.resources
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.csproj.GenerateResource.cache
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.csproj.CoreCompileInputs.cache
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.exe
+C:\Users\Unqown Exe\source\repos\ETPass\ETPass\obj\Debug\ETPass.pdb
